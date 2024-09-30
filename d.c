@@ -3,5 +3,5 @@ int main()
 {
   printf("Hello world");
   printf("Dikshitha");
-  printf("There is an assignment due")
+  printf("Robot is developed");
 }
